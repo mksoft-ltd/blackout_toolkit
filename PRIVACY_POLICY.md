@@ -1,4 +1,4 @@
-# Blackout: Survival Toolkit — Privacy Policy
+# Blackout Survival Kit — Privacy Policy
 
 **Last updated: 20 November 2026**
 
@@ -8,7 +8,7 @@
 
 ## The short version
 
-Froggy Eye Ltd collects nothing about you through Blackout: Survival Toolkit.
+Froggy Eye Ltd collects nothing about you through Blackout Survival Kit.
 There is no account, no sign-in, no analytics, no advertising, no tracking and
 no crash-reporting service. We have no server, so nothing you do in the app is
 sent to us. The only thing we ever receive is an email you choose to send us,
@@ -47,7 +47,7 @@ synced to iCloud Keychain.
 ## Mesh chat
 
 Mesh chat is off until you turn it on. When it is on, your phone uses Bluetooth
-to find other phones running Blackout: Survival Toolkit and exchanges messages
+to find other phones running Blackout Survival Kit and exchanges messages
 with them directly, with no internet, server or phone number. Froggy Eye Ltd
 never receives these messages.
 
@@ -94,25 +94,6 @@ passed on in case it is genuine. Your block list stays on your phone.
 **Filter:** offensive words in names and messages are masked on your screen by
 the app on your phone. Nothing is sent anywhere to do this.
 
-## Reporting a message
-
-To report a mesh chat message, long-press it and choose Report. This blocks the
-sender on your phone and opens a draft email to info@froggyeye.com in your own
-email app. Nothing is sent unless you choose to send that email.
-
-The draft contains the message as it was received (without the masking), the
-sender's display name and full mesh code, when it was sent, and the channel
-(Nearby, SOS or "Private group"; a group's name is not included). It also
-contains anything you add, and, like any email, your email address.
-
-We use a report only to deal with it: to understand what happened, to reply to
-you if needed, and to improve the filter and the conduct rules in app updates.
-We do not share reports with anyone, except where the law requires it or where
-someone's safety is at risk. We delete reports 12 months after we receive them,
-unless we need to keep one longer for safety or legal reasons. Because mesh chat
-has no server, we cannot delete the reported message from other people's
-phones.
-
 **Bluetooth and location permission.** The app asks for Bluetooth permission
 only when you turn on mesh chat. On Android 11 and older, Android requires
 location permission before an app may scan for Bluetooth devices; the app asks
@@ -122,6 +103,28 @@ later, the app tells Android it does not use Bluetooth to work out location.
 **Notification (Android).** While mesh chat is on, Android shows a notification
 so your phone can keep passing on messages with the screen off. It has a "Turn
 off" button. The app sends no other notifications.
+
+## Reporting a message
+
+To report a mesh chat message, long-press it and choose Report. The sender is
+blocked on your phone at once: their messages disappear from your screen and
+your phone stops passing them on. Report also opens a draft email to
+info@froggyeye.com in your own email app. Nothing is sent to us unless you
+choose to send that email.
+
+The draft contains the message as it was received (without the masking), the
+sender's display name and full mesh code, when it was sent, and the channel
+(Nearby, SOS or "Private group"; a group's name is not included). It also
+contains anything you add, and, like any email, your email address.
+
+We reply to every report within 24 hours. We use a report only to deal with it:
+to understand what happened, to reply to you, and to improve the filter and the
+conduct rules in app updates.
+We do not share reports with anyone, except where the law requires it or where
+someone's safety is at risk. We delete reports 12 months after we receive them,
+unless we need to keep one longer for safety or legal reasons. Because mesh chat
+has no server, we cannot delete the reported message from other people's
+phones.
 
 ## Contact with the App Store and Google Play
 
@@ -146,8 +149,8 @@ numbers of downloads and sales, which do not identify you.
 
 Tapping a phone number opens your phone's dialler or messaging app. Tapping the
 privacy policy opens it in your browser. Tapping Contact opens your email app.
-Each of these is handled by that app or website, not by Blackout: Survival
-Toolkit.
+Each of these is handled by that app or website, not by Blackout Survival
+Kit.
 
 ## What we do not do
 
